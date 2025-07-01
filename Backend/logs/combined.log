@@ -1,0 +1,36 @@
+2025-07-01T11:58:01.241Z info: Request to authRoutes has entered
+2025-07-01T11:58:01.243Z info: Request to authRoutes has exited
+2025-07-01T11:58:01.246Z info: ✅ Server running on http://localhost:5002
+2025-07-01T11:58:01.447Z error: MongoDB Connection Error: querySrv ENOTFOUND _mongodb._tcp.123564
+2025-07-01T12:03:36.535Z info: Request to authRoutes has entered
+2025-07-01T12:03:36.538Z info: Request to authRoutes has exited
+2025-07-01T12:03:36.541Z info: ✅ Server running on http://localhost:5002
+2025-07-01T12:03:39.460Z error: MongoDB Connection Error: bad auth : authentication failed
+2025-07-01T12:07:37.494Z info: Request to authRoutes has entered
+2025-07-01T12:07:37.497Z info: Request to authRoutes has exited
+2025-07-01T12:07:37.500Z info: ✅ Server running on http://localhost:5002
+2025-07-01T12:07:39.071Z info: MongoDB Connected: ac-rripdfv-shard-00-01.c0iidrv.mongodb.net
+2025-07-01T12:12:42.711Z info: POST /auth/signup 201 725.635 ms
+2025-07-01T12:13:13.825Z info: POST /auth/signup 400 79.750 ms
+2025-07-01T12:13:44.126Z info: POST /auth/signup 400 267.625 ms
+2025-07-01T12:14:01.298Z info: POST /auth/signup 400 249.796 ms
+2025-07-01T12:14:21.707Z info: POST /auth/signup 201 933.889 ms
+2025-07-01T12:31:29.700Z info: Request to authRoutes has entered
+2025-07-01T12:31:29.702Z info: Request to authRoutes has exited
+2025-07-01T12:31:29.705Z info: ✅ Server running on http://localhost:5002
+2025-07-01T12:31:30.823Z info: MongoDB Connected: ac-msykbrh-shard-00-02.fulldyg.mongodb.net
+2025-07-01T12:32:26.149Z info: POST /auth/signup 201 370.443 ms
+2025-07-01T12:32:47.089Z info: POST /auth/signup 400 60.851 ms
+2025-07-01T12:33:41.389Z info: POST /auth/signup 201 301.116 ms
+2025-07-01T12:37:23.595Z info: POST /auth/login 200 532.985 ms
+2025-07-01T12:37:35.727Z info: POST /auth/login 400 338.889 ms
+2025-07-01T12:37:48.667Z info: POST /auth/login 200 394.787 ms
+2025-07-01T12:38:17.098Z info: POST /auth/login 400 324.740 ms
+2025-07-01T12:38:30.749Z info: POST /auth/login 200 309.310 ms
+2025-07-01T12:40:44.925Z info: POST /auth/login 200 187.293 ms
+2025-07-01T12:40:51.493Z info: POST /auth/login 200 251.978 ms
+2025-07-01T12:40:59.358Z info: POST /auth/logout 404 0.982 ms
+2025-07-01T12:42:19.206Z info: GET /auth/logout 200 0.821 ms
+2025-07-01T12:42:26.407Z info: GET /auth/logout 200 0.323 ms
+2025-07-01T12:42:41.555Z info: GET /auth/logout 200 0.238 ms
+2025-07-01T12:42:44.091Z info: GET /auth/logout 200 0.226 ms

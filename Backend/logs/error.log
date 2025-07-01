@@ -1,0 +1,2 @@
+2025-07-01T11:58:01.447Z error: MongoDB Connection Error: querySrv ENOTFOUND _mongodb._tcp.123564
+2025-07-01T12:03:39.460Z error: MongoDB Connection Error: bad auth : authentication failed
