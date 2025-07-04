@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Optional
+.DS_Store
+.env.local
+.env.development
+.env.production
+npm-debug.log* 
